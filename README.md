@@ -1,0 +1,1 @@
+This Repository contains the Jupyter Notebook file created as part of Module 6 "Create and Share your Jupyter Notebook" within the training course Data Science Tools offered by IDM on the edX platform
